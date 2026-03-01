@@ -1,4 +1,4 @@
-# I'm Shreya 👋
+# I'm Shreya Shitole 👋
 
 ---
 
@@ -45,13 +45,6 @@
 
 ---
 
-## 📊 GitHub Stats:
-
-![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyashitole02&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashitole02&layout=compact&theme=tokyonight)
-
----
 
 ## 🚀 Featured Projects:
 
